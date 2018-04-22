@@ -1,2 +1,2 @@
-# googleSignIng
+# googleSignIn
 swift+googleSignIn
